@@ -1,0 +1,14 @@
+numpy==1.22
+scipy==1.8.0
+pandas==1.4.3
+pydot==1.4.2
+gplot==3.0
+plotly==5.9.0
+graphviz==0.8.4
+ipython-sql==0.4.1
+scikit-learn==1.1.2
+matplotlib==3.5.3
+seaborn==0.11.2
+openpyxl==3.0.10
+jupyter-resource-usage==0.6.2
+statsmodels==0.13.5
