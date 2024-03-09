@@ -7,7 +7,7 @@
 [![Total Downloads](https://img.shields.io/github/downloads/debdattasarkar/Time-Series-Analysis-and-Forecasting--Use-SARIMAX-to-Predict-Customer-Complaints/total.svg)](https://github.com/debdattasarkar/Time-Series-Analysis-and-Forecasting--Use-SARIMAX-to-Predict-Customer-Complaints/releases/)
 
 # Time Series Analysis and Forecasting: Use SARIMAX to Predict Customer Complaints in Python
-### Created byDiogo Alves de Resende
+### Created by Diogo Alves de Resende
 <a href="https://www.udemy.com/labs/time-series-analysis-and-forecasting-use-sarimax-to-predict-customer-complaints-in-python/overview/"> ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) </a>
 
 As the Head of Customer Support at Diogo's Delicious Chocolate Company, I've noticed a growing trend in customer complaints regarding slow response times to emails and lengthy waiting times on phone calls. We need to understand these trends better and forecast future complaint volumes to allocate our resources effectively and improve our customer service experience. I'd like you to analyze the time series data related to customer complaints and identify patterns that can help us in predicting and address these issues more efficiently.
